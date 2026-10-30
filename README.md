@@ -1,22 +1,5 @@
 # Singularity
 
-A curated reading list on AGI, superintelligence, and the futures they could create.
-
-Essays, forecasts, scenarios, and policy visions about how far AI might go, who could benefit, what could go wrong, and what to do about it. Includes arguments for acceleration, restraint, and alternatives to the singularity framing.
-
-Each entry summarizes the author's argument. Years refer to publication, not predicted events. Inclusion is not endorsement.
-
-## Contents
-
-- [Foundations](#foundations)
-- [Forecasts and scenarios](#forecasts-and-scenarios)
-- [Abundance and acceleration](#abundance-and-acceleration)
-- [Safety and governance](#safety-and-governance)
-- [Power, distribution, and counterarguments](#power-distribution-and-counterarguments)
-- [Related collections](#related-collections)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Foundations
 
 - **[The Coming Technological Singularity: How to Survive in the Post-Human Era](https://edoras.sdsu.edu/~vinge/misc/singularity.html)** — Vernor Vinge (1993). Argues that creating superhuman intelligence could trigger runaway technological change beyond our ability to predict, and explores possible routes to human survival.
@@ -57,17 +40,3 @@ Each entry summarizes the author's argument. Years refer to publication, not pre
 - **[Artificial Power: 2025 Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)** — Kate Brennan, Amba Kak, and Sarah Myers West, AI Now Institute (2025). Argues that widespread AI deployment concentrates corporate power, and proposes worker organizing, public-interest regulation, and democratic institutions as ways to reclaim control over its direction.
 - **[Gradual Disempowerment](https://gradual-disempowerment.ai/)** — Jan Kulveit et al. (2025). Argues that incremental automation can erode human influence over economies, culture, and governments through competitive pressures, even without a sudden takeover or coordinated AI power-seeking.
 - **[The Intelligence Curse](https://intelligence-curse.ai/)** — Luke Drago and Rudolf Laine (2025). Argues that replacing human labor weakens powerful institutions' incentives to serve people, and advocates broadly distributed AI, human augmentation, and stronger democratic institutions.
-
-## Related collections
-
-- **[SuperFutures Atlas](https://www.superfutur.es/works)** — DARI Foundation's catalog of books, essays, films, and other works about possible futures, with scenario comparisons.
-- **[Perrin Repository](https://www.perrininstitution.org/repository)** — A searchable AI safety bibliography spanning research, books, policy, media, and tools, with downloadable CSV and JSON records.
-- **[Manifestos Directory](https://manifestos.directory/)** — An archive of digital-culture manifestos, open letters, and declarations, including publication details and links to original or archived sources.
-
-## Contributing
-
-Missing a substantial essay or found a misleading summary? Open an issue or pull request. See the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This list and its original summaries are released under [CC0 1.0 Universal](LICENSE). Linked works remain under their respective copyrights and licenses.
